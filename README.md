@@ -92,13 +92,4 @@ Educational use only
 
 ## Author
 
-Ahmed Darwish
-Ahmed Ramadan 
-Sherif Adel 
-Mahmoud Mosaad 
-Ahmed Fouad 
-Shady Salah
-Shady Mohamed 
-Ahmed Reyad
-Ahmed Ashry
-Ahmed Eiad
+Ahmed Darwish -  Ahmed Ramadan  -   Sherif Adel  -   Mahmoud Mosaad    -    Ahmed Fouad    -    Shady Salah   -     Shady Mohamed    -    Ahmed Reyad    -       Ahmed Ashry   -    Ahmed Eiad
